@@ -1,0 +1,8 @@
+Q: What is Neural Dust in Healthcare?
+A: Tiny sensors implanted in the body for real-time diagnostics using AI pattern recognition.
+
+Q: How does ClimaGPT help with climate change?
+A: It simulates long-term climate scenarios using billions of variables to inform policy and disaster response.
+
+Q: What can AI-Judge be used for?
+A: Legal prediction, appeal suggestions, and case law analysis.
