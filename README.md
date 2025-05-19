@@ -1,8 +1,3 @@
-Absolutely! Here's a clean, professional **README.md** for your GitHub project — no mention of any assignment, just a project-focused description:
-
----
-
-````markdown
 # 🤖 Futuristic AI Chatbot (RAG-powered with LangChain)
 
 A smart, contextual chatbot built using **LangChain**, **Streamlit**, and **FAISS**, enhanced with a **Retrieval-Augmented Generation (RAG)** pipeline. This chatbot answers questions based on a unique dataset of futuristic AI innovations projected between 2024 and 2030.
@@ -47,7 +42,7 @@ The chatbot uses a curated dataset containing research-style descriptions of upc
    ```bash
    git clone https://github.com/your-username/rag-chatbot.git
    cd rag-chatbot
-````
+
 
 2. **Install dependencies**
 
